@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 </br>
 <div>
-  :computer:<h3>Tool</h3>:computer:
+  :computer:
+  <h3>Tool</h3>
+  :computer:
 </div>
 <div>
   <img src="https://img.shields.io/badge/Java-FFCA28?style=for-the-badge&logo=Java&logoColor=white">
