@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Java-F8C517?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-3CBDB1?style=for-the-badge&logo=C++&logoColor=#7ED321">
+<img src="https://img.shields.io/badge/C++-3CBDB1?style=for-the-badge&logo=c++&logoColor=#7ED321">
