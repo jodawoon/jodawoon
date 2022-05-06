@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=red">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-3CBDB1?style=for-the-badge&logo=기술스택아이콘&logoColor=#7ED321">
+<img src="https://img.shields.io/badge/C++-3CBDB1?style=for-the-badge&logo=C++&logoColor=#7ED321">
