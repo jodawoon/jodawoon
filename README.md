@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </br>
 <div>
   :computer:
-  <h3>Tool</h3>
+  <h3 style="display=flex">Tool</h3>
   :computer:
 </div>
 <div>
