@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-3CBDB1?style=for-the-badge&logo=c++&logoColor=white">
 </div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjodawoon&count_bg=%2379C83D&title_bg=%23555555&icon=windowsxp.svg&icon_color=%2370C3CC&title=hits&edge_flat=false"/></a>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jodw0103)](https://solved.ac/profile/jodw0103)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jodw0103)](https://solved.ac/jodw0103)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodawoon)](https://github.com/jodawoon/github-readme-stats)
