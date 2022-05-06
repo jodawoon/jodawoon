@@ -1,4 +1,5 @@
 ### main 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jodw0103)](https://solved.ac/jodw0103/)
 
 <!--
 **jodawoon/jodawoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodawoon&langs_count=8)](https://github.com/jodawoon/github-readme-stats)
 <div>
   :computer:
   Tool
@@ -26,5 +27,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-3CBDB1?style=for-the-badge&logo=c++&logoColor=white">
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jodw0103)](https://solved.ac/jodw0103/)
-
